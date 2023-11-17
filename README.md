@@ -16,8 +16,9 @@ Ce projet est une implémentation en Python du Jeu de la Vie, avec une interface
 
 Grille Réactive : La grille s'ajuste automatiquement pour éviter les cellules partielles à la fin.
 Contrôle du Jeu : Boutons "Start", "Pause" et "Reset" pour contrôler le déroulement du jeu avant et pendant le jeu.
+
 Affichage des Itérations : Une étiquette affiche le nombre d'itérations pour suivre l'évolution du jeu pour une meilleure gestion du jeu.
-Ajout de Samples : Possibilité d'ajouter des patterns prédéfinis au jeu mais c'est.
+
 Crédit Développeur : Affichage d'une section de crédits du développeur qui peut etre aussi masquee.
 
 
@@ -29,7 +30,9 @@ Accédez au répertoire : cd Jeu-de-la-Vie
 Exécutez le script principal : python main.py
 # Utilisation
 Cliquez sur les cellules pour les faire naître ou les tuer.
+
 Utilisez les boutons "Start", "Pause" et "Reset" pour contrôler le jeu.
+
 Ajoutez des samples prédefinis pour voir des patterns intéressants.
 # Auteur
 Cheikh Oumar Diallo
