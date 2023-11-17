@@ -1,8 +1,3 @@
-# Conway_Challenge
- Challenge de Twitter
-
-
-
 # Jeu de la Vie de Conway
 
 Description
