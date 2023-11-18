@@ -97,7 +97,7 @@ class JeuDeLaVieInterface:
         # Creation du bouton de credit du developpeur
         self.bouton_credit = tk.Button(self.root, text="Masquer Credit", font=("Arial Black", 15), background="#000000", foreground="#FFFFFF", command=self.toggle_credit, width=12, height=1)
         self.bouton_credit.pack(side="bottom", padx=10, pady=15)
-        self.credit_texte = tk.Label(text="This game is develooped\nby:\nCheikh Oumar Diallo\nComputer scientist \nstudent engineering\n at\n The Polytechnic School of \nThies\n", font=("Arial Black", 10), background="#FFFFFF", foreground="#000000", width=22, height=10)
+        self.credit_texte = tk.Label(text="This game is\ndevelooped by:\nCheikh Oumar Diallo\nstudent at The\n Polytechnic School \nof Thies", font=("Arial Black", 10), background="#FFFFFF", foreground="#000000", width=20, height=10)
         self.credit_texte.pack(side="bottom", expand=True, padx=5, pady=5)
 
         # Etat du bouton
