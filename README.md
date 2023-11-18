@@ -55,8 +55,15 @@ Affichage des Itérations : Une étiquette affiche le nombre d'itérations pour 
 
 Le bouton "Reset" permet de reinitialiser le jeu a l'etat d'origine c'est a dire iteration egale a zero et toutes les cellules mortes aussi.
 
+Le bouton "Aleatoire" permet de choisir une configuration aleatoire parmi plusieurs predefinies.
+
+Le bouton "Configurations" permet d'ouvrir une nouvelle fenetre pour choisir une configuaration de par son nom. Notez que ce nom est en anglais. 
+
 Crédit Développeur : Affichage d'une section de crédits du développeur qui peut etre aussi masquee.
 
+# Prérequis
+
+Assurez-vous d'avoir Python (version 3.x recommandée) installé sur votre machine. Si ce n'est pas le cas, vous pouvez télécharger Python sur le site officiel : https://www.python.org/
 
 # Installation
 
@@ -66,14 +73,18 @@ Clonez le dépôt : git clone https://github.com/cheikhouma/Jeu-de-la-vie-Conway
 
 Accédez au répertoire : cd Jeu-de-la-Vie
 
-Exécutez le script principal : python main.py
+Exécutez le script principal : main.py
+
+NB: Tout le code est dans un seul fichier le fichier main.py 
 
 # Utilisation
+
 Cliquez sur les cellules pour les faire naître ou les tuer.
 
 Utilisez les boutons "Start", "Pause" et "Reset" pour contrôler le jeu.
 
 Ajoutez des samples prédefinis pour voir des patterns intéressants.
+
 # Auteur
 Cheikh Oumar Diallo, eleve ingenieur a l'Ecole Polytechnique de Thies
 # License
