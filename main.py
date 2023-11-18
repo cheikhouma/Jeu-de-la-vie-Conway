@@ -65,7 +65,6 @@ class JeuDeLaVieInterface:
         self.iteration = 0
 
         self.root = tk.Tk()
-        self.root.iconbitmap("logo.ico")
         self.root.title("Jeu de la Vie de CODIALLO")
         self.root.config()
 
